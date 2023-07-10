@@ -13,3 +13,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* button{
+  width: 100px;
+  height: 50px;
+  border-radius: 10%;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  transition: .5s;
+  margin-left:5px;
+  border-style: none;
+}
+
+button:hover{
+ color: #EE82EE;
+ border: 2px solid #EE82EE ;
+} */
